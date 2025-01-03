@@ -1,0 +1,574 @@
+.page-template-etherum-bot {
+  font-size: 16px;
+}
+@media (max-width: 767px) {
+  .page-template-etherum-bot {
+    font-size: 14px;
+  }
+}
+.page-template-etherum-bot .tit {
+  font-size: 20px;
+  font-weight: 700;
+}
+@media (max-width: 767px) {
+  .page-template-etherum-bot .tit {
+    font-size: 16px;
+  }
+}
+.page-template-etherum-bot .txt {
+  line-height: 1.6;
+}
+.page-template-etherum-bot .front-goodcryptox {
+  color: #fff;
+  position: relative;
+}
+.page-template-etherum-bot .front-goodcryptox .goodcryptox-inner {
+  background: #010B13;
+  position: relative;
+  padding: 190px 0 150px 0;
+}
+.page-template-etherum-bot .front-goodcryptox .line {
+  position: absolute;
+}
+.page-template-etherum-bot .front-goodcryptox .hor-line {
+  left: 50%;
+  transform: translate(-50%);
+  width: 100%;
+  min-width: 1630px;
+}
+.page-template-etherum-bot .front-goodcryptox .hor-line img {
+  width: 100%;
+}
+.page-template-etherum-bot .front-goodcryptox .line-top {
+  top: 0;
+}
+.page-template-etherum-bot .front-goodcryptox .line-bottom {
+  bottom: 0;
+  z-index: 4;
+}
+.page-template-etherum-bot .front-goodcryptox .ver-line {
+  top: 50%;
+  transform: translateY(-50%);
+  height: 100%;
+}
+.page-template-etherum-bot .front-goodcryptox .ver-line img {
+  height: 100%;
+}
+.page-template-etherum-bot .front-goodcryptox .title {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1;
+}
+.page-template-etherum-bot .front-goodcryptox .text {
+  margin-top: 25px;
+}
+.page-template-etherum-bot .front-goodcryptox .text p:not(:last-of-type) {
+  margin-bottom: 20px;
+}
+.page-template-etherum-bot .front-goodcryptox .order {
+  margin-top: 25px;
+}
+.page-template-etherum-bot .front-goodcryptox .order a,
+.page-template-etherum-bot .front-goodcryptox .order button,
+.page-template-etherum-bot .front-goodcryptox .order input {
+  border-radius: 50px;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+.page-template-etherum-bot .front-goodcryptox .order a:hover .icon,
+.page-template-etherum-bot .front-goodcryptox .order button:hover .icon,
+.page-template-etherum-bot .front-goodcryptox .order input:hover .icon {
+  filter: invert(1);
+}
+.page-template-etherum-bot .front-goodcryptox .order a .icon,
+.page-template-etherum-bot .front-goodcryptox .order button .icon,
+.page-template-etherum-bot .front-goodcryptox .order input .icon {
+  transition: 0.3s;
+  margin-left: 10px;
+}
+.page-template-etherum-bot .front-goodcryptox .robot {
+  max-width: 400px;
+  position: relative;
+}
+.page-template-etherum-bot .front-goodcryptox .robot>img {
+  max-width: 100%;
+  position: relative;
+  z-index: 2;
+}
+.page-template-etherum-bot .front-goodcryptox .robot .rainbow {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-55%,-21%);
+}
+.page-template-etherum-bot .front-goodcryptox .robot .rainbow img {
+  max-width: initial;
+}
+@media (min-width: 768px) {
+  .page-template-etherum-bot .front-goodcryptox .paper {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    transform: translate(30%,2.5%);
+    z-index: 3;
+    height: 107%;
+  }
+  .page-template-etherum-bot .front-goodcryptox .paper img {
+    height: 100%;
+  }
+  .page-template-etherum-bot .front-goodcryptox .text {
+    font-size: 18px;
+  }
+}
+@media (min-width: 1900px) {
+  .page-template-etherum-bot .front-goodcryptox .line-top {
+    top: -2vw;
+  }
+  .page-template-etherum-bot .front-goodcryptox .line-bottom {
+    bottom: -2vw;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1600px) {
+  .page-template-etherum-bot .front-goodcryptox .col-xl-8 {
+    max-width: 56.666667%;
+  }
+  .page-template-etherum-bot .front-goodcryptox .title {
+    font-size: 38px;
+  }
+  .page-template-etherum-bot .front-goodcryptox .text {
+    font-size: 16px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+  .page-template-etherum-bot .front-goodcryptox .paper {
+    display: none;
+  }
+  .page-template-etherum-bot .front-goodcryptox .title {
+    font-size: 35px;
+  }
+  .page-template-etherum-bot .front-goodcryptox .text {
+    font-size: 14px;
+  }
+}
+@media (max-width: 767px) {
+  .page-template-etherum-bot .front-goodcryptox {
+    max-width: 320px;
+    margin: auto;
+    margin-bottom: 110px;
+  }
+  .page-template-etherum-bot .front-goodcryptox .goodcryptox-inner {
+    padding: 35px 20px 0 20px;
+    overflow: hidden;
+  }
+  .page-template-etherum-bot .front-goodcryptox .title {
+    font-size: 18px;
+  }
+  .page-template-etherum-bot .front-goodcryptox .text {
+    font-size: 12px;
+  }
+  .page-template-etherum-bot .front-goodcryptox .order a {
+    width: 100%;
+  }
+  .page-template-etherum-bot .front-goodcryptox .line-top {
+    left: 50%;
+    transform: translate(-55%,-32%);
+    width: 103%;
+    min-width: 0;
+    z-index: 3;
+  }
+  .page-template-etherum-bot .front-goodcryptox .line-left {
+    left: 23px;
+    top: -3px;
+    transform: translateX(-18%);
+    height: 110%;
+    z-index: 3;
+  }
+  .page-template-etherum-bot .front-goodcryptox .line-right {
+    right: 0;
+    top: -14px;
+    transform: translateX(36%);
+    z-index: 3;
+    height: 110%;
+  }
+  .page-template-etherum-bot .front-goodcryptox .robot {
+    margin: 30px 0 -30px 0;
+  }
+  .page-template-etherum-bot .front-goodcryptox .robot>img {
+    width: 220px;
+  }
+  .page-template-etherum-bot .front-goodcryptox .robot .rainbow {
+    transform: translate(-55%,-50%) rotate(-25deg);
+  }
+  .page-template-etherum-bot .front-goodcryptox .robot .rainbow img {
+    width: 490px;
+  }
+  .page-template-etherum-bot .front-goodcryptox .paper {
+    bottom: 0;
+    left: 50%;
+    transform: translate(-54%,90%);
+    position: absolute;
+    z-index: 4;
+  }
+  .page-template-etherum-bot .front-goodcryptox .paper img {
+    max-width: initial;
+  }
+}
+.page-template-etherum-bot .bot-main {
+  padding: 50px 0 0 0;
+}
+.page-template-etherum-bot .bot-main .m-left {
+  position: relative;
+  z-index: 10;
+}
+.page-template-etherum-bot .bot-main .m-left h1 {
+  font-size: 52px;
+}
+.page-template-etherum-bot .bot-main .m-left .text {
+  margin: 20px 0 30px 0;
+  color: #4d4d4d;
+}
+.page-template-etherum-bot .bot-main .pic {
+  max-width: 100%;
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+  .page-template-etherum-bot .bot-main {
+    text-align: center;
+  }
+  .page-template-etherum-bot .bot-main .m-left .order a {
+    max-width: 290px;
+    width: 100%;
+  }
+  .page-template-etherum-bot .bot-main .m-left .text {
+    max-width: 600px;
+    margin: 40px auto;
+  }
+}
+@media (max-width: 767px) {
+  .page-template-etherum-bot .bot-main {
+    padding: 30px 0 0 0;
+    text-align: center;
+  }
+  .page-template-etherum-bot .bot-main .m-left h1 {
+    font-size: 22px;
+  }
+  .page-template-etherum-bot .bot-main .m-left .text {
+    margin: 20px 0 20px 0;
+  }
+  .page-template-etherum-bot .bot-main .m-left .order a {
+    max-width: 290px;
+    width: 100%;
+  }
+  .page-template-etherum-bot .bot-main .pic {
+    margin: 30px auto 0;
+    max-width: 340px;
+  }
+}
+.page-template-etherum-bot .how-setup {
+  padding: 110px 0 0 0;
+  text-align: center;
+}
+.page-template-etherum-bot .how-setup .title {
+  margin: 0 0 65px 0;
+}
+@media (max-width: 767px) {
+  .page-template-etherum-bot .how-setup {
+    padding: 60px 0 0 0;
+  }
+  .page-template-etherum-bot .how-setup .title {
+    margin: 0;
+  }
+}
+@media (min-width: 1200px) {
+  .page-template-etherum-bot .how-setup .h-row .row>div:not(:last-of-type) .icon:before {
+    position: absolute;
+    content: '';
+    left: calc(135%);
+    top: 50%;
+    transform: translateY(-50%);
+    width: 288px;
+    height: 10px;
+    background: url(https://goodcrypto.app/wp-content/themes/main-template/images/arrow-line.svg) no-repeat center / contain;
+  }
+}
+.page-template-etherum-bot .how-setup .h-block .icon {
+  width: 92px;
+  height: 92px;
+  margin: 0 auto 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.page-template-etherum-bot .how-setup .h-block .icon img {
+  max-width: 100%;
+  max-height: 100%;
+}
+.page-template-etherum-bot .how-setup .h-block .txt {
+  margin: 15px 0 0 0;
+}
+@media (max-width: 767px) {
+  .page-template-etherum-bot .how-setup .h-block {
+    margin: 45px 0 0 0;
+  }
+  .page-template-etherum-bot .how-setup .h-block .icon {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto 10px;
+  }
+  .page-template-etherum-bot .how-setup .h-block .txt {
+    margin: 5px 0 0 0;
+  }
+}
+.page-template-etherum-bot .bot-strategies {
+  padding: 80px 0 80px 0;
+}
+.page-template-etherum-bot .bot-strategies .for-title {
+  text-align: center;
+  max-width: 1010px;
+  margin: auto;
+}
+.page-template-etherum-bot .bot-strategies .for-title .title {
+  margin: 0 0 30px 0;
+}
+@media (max-width: 767px) {
+  .page-template-etherum-bot .bot-strategies {
+    padding: 60px 0;
+  }
+  .page-template-etherum-bot .bot-strategies .for-title .title {
+    margin: 0 0 15px 0;
+  }
+}
+.page-template-etherum-bot .bot-strategies .s-rows .row {
+  margin-top: 100px;
+}
+@media (min-width: 768px) {
+  .page-template-etherum-bot .bot-strategies .s-rows .row:nth-of-type(odd) {
+    flex-direction: row-reverse;
+  }
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+  .page-template-etherum-bot .bot-strategies .s-rows .row {
+    margin-top: 70px;
+  }
+}
+@media (max-width: 767px) {
+  .page-template-etherum-bot .bot-strategies .s-rows .row {
+    margin-top: 60px;
+  }
+}
+.page-template-etherum-bot .bot-strategies .s-rows .pic img {
+  max-width: 100%;
+}
+.page-template-etherum-bot .bot-strategies .s-rows .tit {
+  margin: 0 0 22px 0;
+}
+.page-template-etherum-bot .bot-strategies .s-rows .order {
+  margin: 22px 0 0 0;
+}
+@media (max-width: 767px) {
+  .page-template-etherum-bot .bot-strategies .s-rows .pic {
+    margin: 0 0 22px 0;
+  }
+  .page-template-etherum-bot .bot-strategies .s-rows .tit {
+    margin: 0 0 15px 0;
+  }
+}
+.page-template-etherum-bot .bot-info {
+  padding: 80px 0;
+  background: #F8F8F8;
+}
+.page-template-etherum-bot .bot-info .container {
+  max-width: 1500px;
+}
+.page-template-etherum-bot .bot-info .i-block {
+  display: flex;
+}
+.page-template-etherum-bot .bot-info .i-block .icon {
+  width: 92px;
+  height: 92px;
+  margin: 0 35px 0 0;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.page-template-etherum-bot .bot-info .i-block .icon img {
+  max-width: 100%;
+  max-height: 100%;
+}
+.page-template-etherum-bot .bot-info .i-block .tit {
+  margin: 0 0 14px 0;
+}
+@media (max-width: 991px) {
+  .page-template-etherum-bot .bot-info {
+    padding: 30px 0 70px 0;
+  }
+  .page-template-etherum-bot .bot-info .i-block {
+    display: block;
+    margin: 24px 0 0 0;
+  }
+  .page-template-etherum-bot .bot-info .i-block .icon {
+    width: 70px;
+    height: 70px;
+    margin: 0 0 10px 0;
+  }
+  .page-template-etherum-bot .bot-info .i-block .tit {
+    margin: 0 0 10px 0;
+  }
+}
+.page-template-etherum-bot .get-app-bot {
+  padding: 35px 0;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  background-image: linear-gradient(to right,#74af26 0%,#00aebc 100%);
+  color: #fff;
+}
+.page-template-etherum-bot .get-app-bot .buttons a {
+  display: block;
+  text-decoration: none;
+}
+.page-template-etherum-bot .get-app-bot .buttons a:hover {
+  transform: scale(1.06);
+}
+@media (max-width: 767px) {
+  .page-template-etherum-bot .get-app-bot {
+    text-align: center;
+  }
+  .page-template-etherum-bot .get-app-bot h2 {
+    margin: 0 0 25px 0;
+  }
+}
+.page-template-etherum-bot .bot-exchanges {
+  padding: 75px 0 70px 0;
+  background-color: #f8f8f8;
+}
+.page-template-etherum-bot .bot-exchanges .for-text {
+  text-align: center;
+  max-width: 1010px;
+  margin: 0 auto 90px;
+}
+.page-template-etherum-bot .bot-exchanges .for-text .text-block:not(:last-of-type) {
+  margin-bottom: 80px;
+}
+.page-template-etherum-bot .bot-exchanges .for-text .text-block p {
+  line-height: 1.6;
+  margin: 30px 0 0 0;
+}
+@media (max-width: 767px) {
+  .page-template-etherum-bot .bot-exchanges .for-text {
+    margin: 0 0 35px 0;
+  }
+  .page-template-etherum-bot .bot-exchanges .for-text .text-block:not(:last-of-type) {
+    margin-bottom: 60px;
+  }
+}
+.page-template-etherum-bot .bot-exchanges .e-block {
+  width: 20%;
+  text-align: center;
+  margin: 65px 0 0 0;
+  filter: grayscale(100%);
+}
+.page-template-etherum-bot .bot-exchanges .e-block:hover {
+  filter: none;
+}
+.page-template-etherum-bot .bot-exchanges .exch-mob {
+  transform: translateX(-10%);
+  width: 800px;
+  margin: auto;
+  padding-bottom: 20px;
+  overflow: hidden;
+}
+.page-template-etherum-bot .bot-exchanges .exch-mob .mobile-logos .logos-wrapper {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+}
+.page-template-etherum-bot .bot-exchanges .exch-mob .mobile-logos .logos-wrapper.active {
+  animation: moveSlideshow 30s linear infinite;
+}
+.page-template-etherum-bot .bot-exchanges .exch-mob .mobile-logos .e-block {
+  filter: none;
+  width: 48px;
+  height: 48px;
+  margin: 25px 12px 0 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  background-color: #ffffff;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  flex-shrink: 0;
+}
+.page-template-etherum-bot .bot-exchanges .exch-mob .row-2 {
+  transform: scale(-1,1);
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+  .page-template-etherum-bot .bot-exchanges .e-block {
+    margin-left: 10px;
+    margin-right: 10px;
+    filter: none;
+  }
+}
+@media (max-width: 767px) {
+  .page-template-etherum-bot .bot-exchanges {
+    padding: 35px 0 20px 0;
+  }
+}
+.page-template-etherum-bot .why-bot {
+  padding: 110px 0 0 0;
+}
+.page-template-etherum-bot .why-bot .title {
+  text-align: center;
+}
+.page-template-etherum-bot .why-bot .w-block {
+  margin: 50px auto 0;
+  max-width: 415px;
+}
+.page-template-etherum-bot .why-bot .w-block .pic {
+  margin: 0 0 35px 0;
+}
+.page-template-etherum-bot .why-bot .w-block .pic img {
+  max-width: 100%;
+}
+.page-template-etherum-bot .why-bot .w-block .txt {
+  margin: 14px 0 0 0;
+}
+@media (max-width: 991px) {
+  .page-template-etherum-bot .why-bot {
+    padding: 65px 0 0 0;
+  }
+  .page-template-etherum-bot .why-bot .w-block .pic {
+    margin: 0 0 23px 0;
+  }
+}
+.page-template-etherum-bot .faq-bot {
+  padding: 110px 0 75px 0;
+}
+.page-template-etherum-bot .faq-bot .container {
+  max-width: 1010px;
+}
+.page-template-etherum-bot .faq-bot .title {
+  margin: 0 0 60px 0;
+  text-align: center;
+}
+@media (max-width: 767px) {
+  .page-template-etherum-bot .faq-bot {
+    padding: 70px 0;
+  }
+  .page-template-etherum-bot .faq-bot .title {
+    margin: 0 0 45px 0;
+  }
+}
